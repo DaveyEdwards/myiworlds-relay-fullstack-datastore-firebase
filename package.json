@@ -15,7 +15,7 @@
   "pre-commit": "lint",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lvarayut/relay-fullstack.git"
+    "url": "git+https://github.com/DaveyEdwards/myiworlds-relay-fullstack-datastore-firebase.git"
   },
   "engines": {
     "node": "6.6.0",
@@ -39,9 +39,9 @@
   "author": "Davey Edwards",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lvarayut/relay-fullstack/issues"
+    "url": "https://github.com/DaveyEdwards/myiworlds-relay-fullstack-datastore-firebase/issues"
   },
-  "homepage": "https://github.com/lvarayut/relay-fullstack",
+  "homepage": "https://github.com/DaveyEdwards/myiworlds-relay-fullstack-datastore-firebase",
   "devDependencies": {
     "eslint": "^3.12.2",
     "eslint-config-airbnb": "^13.0.0",
